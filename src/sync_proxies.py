@@ -52,15 +52,15 @@ def normalize(text: str) -> str:
     return text.replace("\r\n", "\n").rstrip() + "\n"
 
 
-def sha1_text(text: str) -> str:
+def sha1_line(text: str) -> str:
     return hashlib.sha1(normalize(text).encode()).hexdigest()
 
 
 def safe_filename_from_url(url: str) -> str:
-    return f"source_{sha1_text(url)[:10]}.txt"
+    return f"source_{sha1_line(url)[:10]}.txt"
 
 
-def fetch_and_process(url: str) -> tuple[str, str]:
+def fetch_and_process(index: int, url: str) -> tuple[str, str]:
     r = requests.get(url, timeout=30)
     r.raise_for_status()
 
@@ -71,14 +71,16 @@ def fetch_and_process(url: str) -> tuple[str, str]:
         line = line.strip()
         if not line:
             continue
-        h = sha1_text(line)
+
+        h = sha1_line(line)
         if h not in seen:
             seen.add(h)
             lines.append(line)
 
     content = "\n".join(sorted(lines)) + "\n"
-    filename = safe_filename_from_url(url)
+    filename = f"{index}.txt"
     return filename, content
+
 
 
 def get_existing_github_file(path: str):
@@ -94,7 +96,7 @@ def get_existing_github_file(path: str):
     if r.status_code == 404:
         return None, None
 
-    r.raise_for_status()  # <-- IMPORTANT
+    r.raise_for_status()
 
     data = r.json()
     content = base64.b64decode(data["content"]).decode()
@@ -115,7 +117,7 @@ def upload_file_to_github(path: str, content: str):
     sha, existing_content = get_existing_github_file(path)
 
     if existing_content is not None:
-        if sha1_text(existing_content) == sha1_text(content):
+        if normalize(existing_content) == normalize(content):
             print(f"[SKIP] {path} (unchanged)")
             return
 
@@ -143,7 +145,10 @@ def main():
     os.makedirs(TARGET_DIR, exist_ok=True)
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(fetch_and_process, u): u for u in URLS}
+        futures = {
+            executor.submit(fetch_and_process, i + 1, url): url
+            for i, url in enumerate(URLS)
+        }
 
         for future in as_completed(futures):
             url = futures[future]
