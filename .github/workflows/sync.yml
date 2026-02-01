@@ -1,4 +1,4 @@
-name: Mirror proxy sources
+name: Update proxy mirror
 
 on:
   schedule:
@@ -21,24 +21,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install deps
+        run: pip install -r requirements.txt
 
-      - name: Run mirror script (dry-run output)
+      - name: Run sync_proxies script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python sync_proxies.py --dry-run
-
-      - name: Upload mirror artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: mirror-preview
-          path: mirror/
-          retention-days: 7
-
-      - name: Run mirror script (GitHub upload)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python sync_proxies.py
+          python src/sync_proxies.py
