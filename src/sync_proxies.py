@@ -2,6 +2,7 @@
 
 import argparse
 import base64
+import datetime
 import hashlib
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -137,6 +138,9 @@ def parse_args():
 
 
 def main():
+    print("=== sync_proxies run ===")
+    print("UTC time:", datetime.datetime.now(datetime.UTC).isoformat())
+
     args = parse_args()
 
     os.makedirs(TARGET_DIR, exist_ok=True)
