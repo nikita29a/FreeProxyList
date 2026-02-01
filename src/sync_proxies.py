@@ -43,15 +43,21 @@ GITHUB_REPO = "FreeProxyList"
 TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
 MAX_WORKERS = 12
+
+
 # =========================================================
 
 
-def sha1(text: str) -> str:
-    return hashlib.sha1(text.encode()).hexdigest()
+def normalize(text: str) -> str:
+    return text.replace("\r\n", "\n").rstrip() + "\n"
+
+
+def sha1_text(text: str) -> str:
+    return hashlib.sha1(normalize(text).encode()).hexdigest()
 
 
 def safe_filename_from_url(url: str) -> str:
-    return f"source_{sha1(url)[:10]}.txt"
+    return f"source_{sha1_text(url)[:10]}.txt"
 
 
 def fetch_and_process(url: str) -> tuple[str, str]:
@@ -65,7 +71,7 @@ def fetch_and_process(url: str) -> tuple[str, str]:
         line = line.strip()
         if not line:
             continue
-        h = sha1(line)
+        h = sha1_text(line)
         if h not in seen:
             seen.add(h)
             lines.append(line)
@@ -75,7 +81,7 @@ def fetch_and_process(url: str) -> tuple[str, str]:
     return filename, content
 
 
-def get_existing_github_file(path: str) -> tuple[str | None, str | None]:
+def get_existing_github_file(path: str):
     token = os.getenv("GITHUB_TOKEN")
     api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
     headers = {
@@ -84,8 +90,11 @@ def get_existing_github_file(path: str) -> tuple[str | None, str | None]:
     }
 
     r = requests.get(api, headers=headers)
-    if r.status_code != 200:
+
+    if r.status_code == 404:
         return None, None
+
+    r.raise_for_status()  # <-- IMPORTANT
 
     data = r.json()
     content = base64.b64decode(data["content"]).decode()
@@ -105,9 +114,10 @@ def upload_file_to_github(path: str, content: str):
 
     sha, existing_content = get_existing_github_file(path)
 
-    if existing_content is not None and existing_content == content:
-        print(f"[SKIP] {path} (unchanged)")
-        return
+    if existing_content is not None:
+        if sha1_text(existing_content) == sha1_text(content):
+            print(f"[SKIP] {path} (unchanged)")
+            return
 
     payload = {
         "message": COMMIT_MESSAGE,
