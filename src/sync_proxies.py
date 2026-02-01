@@ -51,7 +51,7 @@ def sha1(text: str) -> str:
 
 
 def safe_filename_from_url(url: str) -> str:
-    return f"source_{url[:10]}.txt"
+    return f"source_{sha1(url)[:10]}.txt"
 
 
 def fetch_and_process(url: str) -> tuple[str, str]:
