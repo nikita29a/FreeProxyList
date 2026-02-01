@@ -31,30 +31,30 @@
 
 *Ссылки ниже ведут на всегда обновляемые VPN-конфиги в формате `.txt`*:
 
-1. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/1.txt`  
-2. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/2.txt`  
-3. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/3.txt` 
-4. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/4.txt`
-5. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/5.txt`
-6. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/6.txt`  
-7. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/7.txt`  
-8. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/8.txt` 
-9. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/9.txt`
-10. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/10.txt`
-11. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/11.txt`  
-12. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/12.txt`  
-13. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/13.txt` 
-14. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/14.txt`
-15. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/15.txt`
-16. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/16.txt`  
-17. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/17.txt`  
-18. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/18.txt` 
-19. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/19.txt`
-20. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/20.txt`
-21. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/21.txt`
-22. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/22.txt`
-23. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/23.txt`
-24. `https://github.com/nikita29a/FreeProxyList/blob/main/mirror/24.txt`
+1. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/1.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/1.txt`)
+2. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/2.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/2.txt`)
+3. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/3.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/3.txt`)
+4. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt`)
+5. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/5.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/5.txt`)
+6. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/6.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/6.txt`)
+7. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/7.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/7.txt`)
+8. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/8.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/8.txt`)
+9. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/9.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/9.txt`)
+10. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/10.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/10.txt`)
+11. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/11.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/11.txt`)
+12. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/12.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/12.txt`)
+13. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/13.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/13.txt`)
+14. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/14.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/14.txt`)
+15. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/15.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/15.txt`)
+16. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/16.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/16.txt`)
+17. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/17.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/17.txt`)
+18. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/18.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/18.txt`)
+19. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/19.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/19.txt`)
+20. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/20.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/20.txt`)
+21. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/21.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/21.txt`)
+22. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt`)
+23. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt`)
+24. [`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt`](`https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt`)
 
 ---
 
