@@ -1,9 +1,9 @@
 name: Update proxy mirror
 
 on:
-  workflow_dispatch:
-    schedule:
-      - cron: '*/10 * * * *'
+  workflow_dispatch:  # Allows manual triggering from the Actions tab
+  schedule:           # Correctly separated trigger
+    - cron: '*/10 * * * *'
 
 jobs:
   sync:
