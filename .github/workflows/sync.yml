@@ -1,0 +1,44 @@
+name: Mirror proxy sources
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run mirror script (dry-run output)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python sync_proxies.py --dry-run
+
+      - name: Upload mirror artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mirror-preview
+          path: mirror/
+          retention-days: 7
+
+      - name: Run mirror script (GitHub upload)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python sync_proxies.py
