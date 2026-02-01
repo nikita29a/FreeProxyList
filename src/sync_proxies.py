@@ -38,8 +38,8 @@ URLS = [
 ]
 
 # ========================= CONFIG =========================
-GITHUB_OWNER = "YOUR_GITHUB_USERNAME"
-GITHUB_REPO = "YOUR_GITHUB_REPO"
+GITHUB_OWNER = "nikita29a"
+GITHUB_REPO = "FreeProxyList"
 TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
 MAX_WORKERS = 12
