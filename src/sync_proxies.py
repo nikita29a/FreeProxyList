@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 
-import re
-import os
+import argparse
 import base64
 import hashlib
-import argparse
-import requests
-from urllib.parse import urlparse
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import requests
 
 URLS = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
@@ -24,7 +23,6 @@ URLS = [
     "https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all",
     "https://github.com/Kwinshadow/TelegramV2rayCollector/raw/refs/heads/main/sublinks/mix.txt",
     "https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes",
-    "https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub",
     "https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt",
     "https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vmess.txt",
