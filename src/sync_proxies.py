@@ -82,7 +82,6 @@ def fetch_and_process(index: int, url: str) -> tuple[str, str]:
     return filename, content
 
 
-
 def get_existing_github_file(path: str):
     token = os.getenv("GITHUB_TOKEN")
     api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
