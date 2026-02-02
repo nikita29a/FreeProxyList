@@ -27,5 +27,6 @@ jobs:
       - name: Run sync_proxies script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          URLS_SECRET_KEY: ${{ secrets.URLS_SECRET_KEY }}
         run: |
           python src/sync_proxies.py
