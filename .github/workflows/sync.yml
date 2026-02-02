@@ -24,9 +24,9 @@ jobs:
       - name: Install deps
         run: pip install --no-cache-dir -r requirements.txt
 
-      - name: Run sync_proxies script
+      - name: Run sync script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URLS_SECRET_KEY: ${{ secrets.URLS_SECRET_KEY }}
         run: |
-          python src/sync_proxies.py
+          python src/sync.py
