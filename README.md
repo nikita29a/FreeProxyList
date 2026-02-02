@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45"> Бесплатные VPN-конфиги, Free VPN-configs
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=nikita29a&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />   
-</p>
 
 <p align="right">
   🇷🇺 <b>Русский</b> | <a href="README_EN.md">🇬🇧 English</a>
 </p>
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nikita29a&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />   
+</p>
 
 Сборка актуальных конфигураций VPN для обхода блокировок и безопасного подключения к сети.  
 Этот репозиторий содержит подписки на готовые конфиги, которые можно быстро подключить в популярных приложениях.
