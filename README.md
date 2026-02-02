@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45"> Бесплатные VPN-конфиги
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45"> Бесплатные VPN-конфиги, Free VPN-configs
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=nikita29a&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />   
 </p>
