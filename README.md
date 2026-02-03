@@ -12,6 +12,12 @@
 Этот репозиторий содержит подписки на готовые конфиги, которые можно быстро подключить в популярных приложениях.
 
 ---
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20">  Зачем этот репозиторий нужен прямо сейчас
+
+- Обход блокировок **YouTube 4K / 8K**, Telegram без прокси, Instagram, Discord, ChatGPT, Grok, Roblox...
+- Конфиги **проверяются и обновляются автоматически** → почти всегда есть живые сервера
+- Поддержка самых устойчивых к DPI протоколов: **VLESS+Reality**, Hysteria2, TUIC
+- Работает в **v2rayNG, Hiddify, NekoBox, Sing-box, Streisand** и многих других
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20">  Что внутри
 
