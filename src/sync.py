@@ -41,7 +41,7 @@ GITHUB_OWNER = "nikita29a"
 GITHUB_REPO = "FreeProxyList"
 TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
-MAX_WORKERS = 12
+MAX_WORKERS = 15
 
 
 # =========================================================
