@@ -31,6 +31,15 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      # 🔑 RESTORE hashes cache BEFORE running sync
+      - name: Restore hashes cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: proxy-hashes-${{ github.ref }}
+          restore-keys: |
+            proxy-hashes-
+
       - name: Run sync script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,6 +47,14 @@ jobs:
         run: |
           set -euo pipefail
           python src/sync.py
+
+      # 💾 SAVE hashes cache AFTER successful run
+      - name: Save hashes cache
+        if: success()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: proxy-hashes-${{ github.ref }}
 
       - name: Summary
         if: always()
