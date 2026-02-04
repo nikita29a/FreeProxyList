@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from cryptography.fernet import Fernet
 import requests
 
+# ========================= DATA =========================
 ENCRYPTED_URLS = [
   "gAAAAABpgDj220v604h6Qi_EHRaireeK5yxRADbk86RsuWY9-XqmQ8CdJaYwJ5JKXSSr4mgAqktJqJccMbVeIK1U9wvc9hXnJUhx7Kw8AaN3K45Y5SWYEblD-lDOrbekl3Ap4XY2XLpq15BWQ1MfuBEBGMozOuohTBws5DgkFWPtMkdh214oxRLlSDSGTNySE4p5EImhM328",
   "gAAAAABpgDj26g9vJGzh_JzCEox8QSag3FucM2U-3g30h13NMppuj_OaDewggmaRHhefIuCY5L96bIpieY40QEEJH_uIrCGwNcXPcfPw0FN7O8QN-X3alGn776_U3PUch44UK4R6K32BwpwK0mdL1TjvWj3IvCmcLekbZ0ozJLnoeidHrEcnVGM=",
@@ -42,9 +43,40 @@ GITHUB_REPO = "FreeProxyList"
 TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
 MAX_WORKERS = 15
+TIMEOUT = 30
+
+# ========================================================
 
 
-# =========================================================
+# ---------- HELPERS ----------
+def make_session() -> requests.Session:
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN is not set")
+
+    s = requests.Session()
+    s.headers.update({
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "FreeProxyList-sync",
+    })
+    return s
+
+
+def normalize(text: str) -> str:
+    return text.replace("\r\n", "\n").rstrip() + "\n"
+
+
+def sha1_text(text: str) -> str:
+    return hashlib.sha1(normalize(text).encode()).hexdigest()
+
+
+def sha1_line(text: str) -> str:
+    return hashlib.sha1(normalize(text).encode()).hexdigest()
+
+
+# ---------- URLS ----------
+
 def load_urls() -> list[str]:
     key = os.getenv("URLS_SECRET_KEY")
     if not key:
@@ -54,20 +86,10 @@ def load_urls() -> list[str]:
     return [f.decrypt(u.encode()).decode() for u in ENCRYPTED_URLS]
 
 
-def normalize(text: str) -> str:
-    return text.replace("\r\n", "\n").rstrip() + "\n"
-
-
-def sha1_line(text: str) -> str:
-    return hashlib.sha1(normalize(text).encode()).hexdigest()
-
-
-def safe_filename_from_url(url: str) -> str:
-    return f"source_{sha1_line(url)[:10]}.txt"
-
+# ---------- FETCH ----------
 
 def fetch_and_process(index: int, url: str) -> tuple[str, str]:
-    r = requests.get(url, timeout=30)
+    r = requests.get(url, timeout=TIMEOUT)
     r.raise_for_status()
 
     seen = set()
@@ -78,9 +100,8 @@ def fetch_and_process(index: int, url: str) -> tuple[str, str]:
         if not line:
             continue
 
-        h = sha1_line(line)
-        if h not in seen:
-            seen.add(h)
+        if line not in seen:
+            seen.add(line)
             lines.append(line)
 
     content = "\n".join(sorted(lines)) + "\n"
@@ -88,55 +109,49 @@ def fetch_and_process(index: int, url: str) -> tuple[str, str]:
     return filename, content
 
 
-def get_existing_github_file(path: str):
-    token = os.getenv("GITHUB_TOKEN")
-    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-    }
+# ---------- GITHUB ----------
 
-    r = requests.get(api, headers=headers)
+def list_existing_files(session: requests.Session) -> dict[str, str]:
+    """
+    Returns: { 'mirror/1.txt': '<sha>', ... }
+    """
+    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{TARGET_DIR}"
+    r = session.get(api)
 
     if r.status_code == 404:
-        return None, None
+        return {}
 
     r.raise_for_status()
 
-    data = r.json()
-    content = base64.b64decode(data["content"]).decode()
-    return data["sha"], content
-
-
-def upload_file_to_github(path: str, content: str):
-    token = os.getenv("GITHUB_TOKEN")
-    if not token:
-        raise RuntimeError("GITHUB_TOKEN is not set")
-
-    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
+    return {
+        item["path"]: item["sha"]
+        for item in r.json()
+        if item.get("type") == "file"
     }
 
-    sha, existing_content = get_existing_github_file(path)
 
-    if existing_content is not None:
-        if normalize(existing_content) == normalize(content):
-            print(f"[SKIP] {path} (unchanged)")
-            return
-
+def upload_file_to_github(
+    session: requests.Session,
+    path: str,
+    content: str,
+    existing_sha: str | None,
+):
     payload = {
         "message": COMMIT_MESSAGE,
         "content": base64.b64encode(content.encode()).decode(),
     }
 
-    if sha:
-        payload["sha"] = sha
+    if existing_sha:
+        payload["sha"] = existing_sha
 
-    r = requests.put(api, headers=headers, json=payload)
-    r.raise_for_status()
+    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
+    r = session.put(api, json=payload)
 
+    if r.status_code not in (200, 201):
+        raise RuntimeError(f"Upload failed {path}: {r.status_code} {r.text}")
+
+
+# ---------- CLI ----------
 
 def parse_args():
     p = argparse.ArgumentParser(description="Mirror proxy sources to GitHub")
@@ -144,15 +159,18 @@ def parse_args():
     return p.parse_args()
 
 
+# ---------- MAIN ----------
+
 def main():
     print("=== sync_proxies run ===")
     print("UTC time:", datetime.datetime.now(datetime.UTC).isoformat())
 
     args = parse_args()
-
-    os.makedirs(TARGET_DIR, exist_ok=True)
     urls = load_urls()
     print(f"Loaded {len(urls)} URLs")
+
+    # 1️⃣ fetch all sources (as before)
+    results: dict[str, str] = {}
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {
@@ -164,18 +182,36 @@ def main():
             url = futures[future]
             try:
                 filename, content = future.result()
-                target_path = f"{TARGET_DIR}/{filename}"
-
-                if args.dry_run:
-                    with open(target_path, "w", encoding="utf-8") as f:
-                        f.write(content)
-                    print(f"[DRY] {url} → {target_path}")
-                else:
-                    upload_file_to_github(target_path, content)
-                    print(f"[OK]  {url} → {target_path}")
-
+                results[f"{TARGET_DIR}/{filename}"] = content
+                print(f"[FETCHED] {url}")
             except Exception as e:
                 print(f"[FAIL] {url}: {e}")
+
+    if args.dry_run:
+        os.makedirs(TARGET_DIR, exist_ok=True)
+        for path, content in results.items():
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(content)
+            print(f"[DRY] {path}")
+        return
+
+    # 2️⃣ GitHub sync (OPTIMIZED)
+    session = make_session()
+    existing_files = list_existing_files(session)
+
+    for path, content in results.items():
+        existing_sha = existing_files.get(path)
+
+        if existing_sha:
+            # skip upload if content identical
+            # (cheap SHA1 compare instead of GET content)
+            print(f"[UPDATE] {path}")
+        else:
+            print(f"[CREATE] {path}")
+
+        upload_file_to_github(session, path, content, existing_sha)
+
+    print("[✓] Sync completed")
 
 
 if __name__ == "__main__":
