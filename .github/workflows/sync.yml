@@ -2,12 +2,21 @@ name: Update proxy mirror
 
 on:
   schedule:
-    - cron: "5/10 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
+
+concurrency:
+  group: proxy-sync
+  cancel-in-progress: true
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    defaults:
+      run:
+        shell: bash
 
     steps:
       - name: Checkout repo
@@ -17,16 +26,21 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
+          cache: "pip"
 
       - name: Install deps
-        run: pip install --no-cache-dir -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run sync script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URLS_SECRET_KEY: ${{ secrets.URLS_SECRET_KEY }}
         run: |
+          set -euo pipefail
           python src/sync.py
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Proxy sync finished" >> $GITHUB_STEP_SUMMARY
+          echo "- Time: $(date -u)" >> $GITHUB_STEP_SUMMARY
