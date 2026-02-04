@@ -47,7 +47,8 @@ TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
 MAX_WORKERS = 15
 TIMEOUT = 30
-HASH_FILE = Path(".cache/hashes.json")
+ROOT = Path(__file__).resolve().parent.parent
+HASH_FILE = ROOT / ".cache" / "hashes.json"
 # ========================================================
 
 def sha1(text: str) -> str:
@@ -61,6 +62,7 @@ def load_hashes() -> dict:
 
 
 def save_hashes(hashes: dict):
+    print(f"saving count={len(hashes)} hashes to {HASH_FILE}")
     HASH_FILE.parent.mkdir(parents=True, exist_ok=True)
     HASH_FILE.write_text(json.dumps(hashes, indent=2))
 
@@ -179,7 +181,6 @@ def parse_args():
 
 def main():
     print("=== sync_proxies run ===")
-    print("UTC time:", datetime.datetime.now(datetime.UTC).isoformat())
 
     args = parse_args()
     urls = load_urls()
@@ -230,6 +231,7 @@ def main():
 
         hashes[path] = new_hash
 
+    print("[✓] Saving hashes...")
     save_hashes(hashes)
 
     print("[✓] Sync completed")
