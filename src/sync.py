@@ -4,10 +4,13 @@ import argparse
 import base64
 import datetime
 import hashlib
+import json
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from cryptography.fernet import Fernet
+from pathlib import Path
+
 import requests
+from cryptography.fernet import Fernet
 
 # ========================= DATA =========================
 ENCRYPTED_URLS = [
@@ -44,9 +47,22 @@ TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
 MAX_WORKERS = 15
 TIMEOUT = 30
-
+HASH_FILE = Path(".cache/hashes.json")
 # ========================================================
 
+def sha1(text: str) -> str:
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()
+
+
+def load_hashes() -> dict:
+    if HASH_FILE.exists():
+        return json.loads(HASH_FILE.read_text())
+    return {}
+
+
+def save_hashes(hashes: dict):
+    HASH_FILE.parent.mkdir(parents=True, exist_ok=True)
+    HASH_FILE.write_text(json.dumps(hashes, indent=2))
 
 # ---------- HELPERS ----------
 def make_session() -> requests.Session:
@@ -198,18 +214,23 @@ def main():
     # 2️⃣ GitHub sync (OPTIMIZED)
     session = make_session()
     existing_files = list_existing_files(session)
+    hashes = load_hashes()
 
     for path, content in results.items():
+        new_hash = sha1(content)
+        old_hash = hashes.get(path)
         existing_sha = existing_files.get(path)
 
-        if existing_sha:
-            # skip upload if content identical
-            # (cheap SHA1 compare instead of GET content)
-            print(f"[UPDATE] {path}")
-        else:
-            print(f"[CREATE] {path}")
+        if old_hash == new_hash:
+            print(f"[SKIP] {path}")
+            continue
 
+        print("[UPDATE]" if existing_sha else "[CREATE]", path)
         upload_file_to_github(session, path, content, existing_sha)
+
+        hashes[path] = new_hash
+
+    save_hashes(hashes)
 
     print("[✓] Sync completed")
 
