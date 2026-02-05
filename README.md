@@ -132,8 +132,8 @@
 
 Если репозиторий оказался полезным — поддержка приветствуется ❤️
 
-- **TRON (TRX)**: `TYdCN1WmBwojFDTDxoHMncVcNRDmi399rs`  
-- **Ethereum (ETH)**: `0xff4892ac470baafc942cd3cf6028828504ec1111`  
+- **TRON (TRX / TRC-20)**: `TYdCN1WmBwojFDTDxoHMncVcNRDmi399rs`  
+- **Ethereum (ETH / ERC-20)**: `0xff4892ac470baafc942cd3cf6028828504ec1111`  
 - **Solana (SOL)**: `2bEXEEkmDVSeySb4wwAUxzNgN6o3XhPeEGuhLefxYp76`  
 - **Bitcoin (BTC)**: `bc1qqysqandnlz6rcvgpr8nf726552qewq0zk7m22x`
 
