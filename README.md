@@ -71,7 +71,7 @@ YouTube 4K/8K, Telegram, Instagram, Discord, ChatGPT, Grok, Roblox — без л
 22. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt
 23. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt
 24. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt
-24. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt  
+25. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt  
 
 (бери первую, которая открылась)
 
