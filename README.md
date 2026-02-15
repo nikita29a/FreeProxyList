@@ -9,7 +9,7 @@
 </p>
 
 **Рабочие подписки каждый день.**  
-YouTube 4K/8K, Telegram, Instagram, Discord, ChatGPT, Grok, Roblox — без лишних нервов.
+YouTube, Telegram, Instagram, Discord, ChatGPT, Grok, Roblox — без лишних нервов.
 
 Обновляются **ежедневно** → почти всегда есть живые сервера.  
 Самые устойчивые к блокировкам протоколы: **VLESS+Reality**, **Hysteria2**, **TUIC**.
