@@ -375,7 +375,6 @@ ss://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&amp;
 ss://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram%20%F0%9F%8E%AF%20dailyv2ry
 ss://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram%20%F0%9F%9A%80%20dailyv2ry
 ss://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=datisde2.rahagp.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=datisde2.rahagp.ir#@V2rayNG3
-ss://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?encryption=none&amp;security=tls&amp;sni=snapfood.org&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=snapfood.org&amp;path=%2Fukspeed#vb1g6bj2
 ss://7aa34c86-83e4-46ad-a857-3828764585e9@190.93.247.56:8080?security=none&amp;type=ws&amp;host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&amp;path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B7_CR_%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080?security=none&amp;type=ws&amp;host=lc71.lebasnoo.ir.&amp;path=%2Fservernett#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=8j3f7HD37h.PaGES.dEV#%40EuServer
@@ -1253,7 +1252,7 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;path=/juzigongyi&amp;Host=09jzus.zdzdzd.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-16-Feb-2026 22:59
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-16-Feb-2026 23:55
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://fNDv88j5jz@23.227.38.43:443?path=%2Fimages&amp;security=tls&amp;insecure=0&amp;host=stream.motortaktaz.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=stream.motortaktaz.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -1291,7 +1290,6 @@ trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&amp;sni=trojan.bu
 trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
 trojan://telegram-id-privatevpns@13.38.165.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.38.166.142:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@13.39.240.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.62.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
@@ -1301,7 +1299,7 @@ trojan://telegram-id-privatevpns@18.158.213.255:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@3.123.112.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.126.233.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.77.249.4:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@35.180.19.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@35.181.242.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@51.44.195.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.44.93.242:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -1686,7 +1684,6 @@ vless://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&a
 vless://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram%20%F0%9F%8E%AF%20dailyv2ry
 vless://74cbe197-2698-4b65-940c-54e3cfdcfa2d@31.25.95.238:2087?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#telegram%20%F0%9F%9A%80%20dailyv2ry
 vless://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=datisde2.rahagp.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=datisde2.rahagp.ir#@V2rayNG3
-vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?encryption=none&amp;security=tls&amp;sni=snapfood.org&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=snapfood.org&amp;path=%2Fukspeed#vb1g6bj2
 vless://7aa34c86-83e4-46ad-a857-3828764585e9@190.93.247.56:8080?security=none&amp;type=ws&amp;host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&amp;path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B7_CR_%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080?security=none&amp;type=ws&amp;host=lc71.lebasnoo.ir.&amp;path=%2Fservernett#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=8j3f7HD37h.PaGES.dEV#%40EuServer
