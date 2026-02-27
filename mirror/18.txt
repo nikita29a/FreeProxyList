@@ -59,8 +59,6 @@ ss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.130.216:80?security=none&amp;t
 ss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.194.216:80?security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=ws%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.66.216:80?security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=ws%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://21889ffd-54ee-40f9-e9b0-f1838908579a@3.67.225.200:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%206
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#vmess_iran
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s1.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s2.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
@@ -68,21 +66,13 @@ ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;p
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s4.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s5.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping%2F%3FTELEGRAM-irmeliy&amp;security=none&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%E2%9A%A1%40EuServer
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#vmess_iran
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%E2%9A%A1%40EuServer
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%7C%E2%9A%A1%40EuServer
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=updn.pabloping.pro&amp;type=xhttp#vmess_iran
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s2.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s3.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s4.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s5.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=updn.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=upnl.pabloping.pro&amp;type=xhttp#vmess_iran
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=vusp.pabloping.pro&amp;type=xhttp#vmess_iran
 ss://23993086-1e23-4c64-8126-a4fc1d7af735@3.71.35.172:11860?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%201
 ss://2487c34c-016e-43f3-9460-cb13b1f4c418@151.101.128.155:80?security=none&amp;type=ws&amp;host=UNLIMITEDDEV.channel-telegram-1.ir&amp;path=
 ss://24b6b7fe-eae6-4f82-ab02-fd46d7574e61@193.58.119.134:443?security=none&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#ConfigV2RayNG
@@ -245,7 +235,6 @@ ss://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=a
 ss://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr219.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
 ss://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%202
 ss://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
-ss://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vmess_iran
 ss://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.67.71.90:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%209
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 ss://6a6c8662-1c43-4ae5-9018-486b288dfbaa@104.17.147.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -339,7 +328,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QXU3TmhGbWNCcU1uaWthNEtWazdoNFpkVjN3RDRoRnR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExiS0huQjNJTzc1OXVlRW5oZ01HQDUyLjE0Mi4xNjEuOTozNDQyNA==#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YVJNMVUyUUl1MVVrcllJRHRHZUR5@77.91.123.173:18332#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#vmess_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODNmNjE0MzQzNGNkNWM4@154.53.34.134:16541#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#@V2rayNG3
@@ -389,11 +377,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb09ANTcuMTI5LjE0MC44ODo4Mzg4#@v
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vmess_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#Germany%200VH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#vmess_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#vmess_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#vmess_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#vmess_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#vmess_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%40Easy_Free_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -402,7 +385,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT0o3V282eUhxV1F2OEZVRXEzQktW@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#@V2rayNG3
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#vmess_iran
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3NAMTA5LjIwMS4xNTIuMTgxOjQ0Mw==#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247
@@ -611,7 +593,6 @@ ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.1
 ss://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=nobitex.sylu.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=nobitex.sylu.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.124.4.215:59599?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%2010
 ss://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40ConfigV2RayNG
-ss://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#vmess_iran
 ss://b160cc4a-89f5-4279-9007-a4c84a13a175@aut-0001-xr.packet-drop-society.net:443?security=reality&amp;encryption=none&amp;pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#@V2rayNG3
 ss://b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%92%A5Free_Netplus%20%F0%9F%92%A5
 ss://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.18.32.47:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;host=private.digikala.lat&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ggjd.digikala.lat#@V2rayNG3
@@ -927,7 +908,7 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;path=/juzigongyi&amp;Host=09jzus.zdzdzd.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-28-Feb-2026 00:54
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-28-Feb-2026 01:48
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
@@ -1040,8 +1021,6 @@ vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.130.216:80?security=none&am
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.194.216:80?security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=ws%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.66.216:80?security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=ws%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.67.225.200:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%206
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#vmess_iran
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s1.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s2.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
@@ -1049,21 +1028,13 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&am
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s4.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s5.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping%2F%3FTELEGRAM-irmeliy&amp;security=none&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%E2%9A%A1%40EuServer
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#vmess_iran
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=atus.pabloping.pro&amp;type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%E2%9A%A1%40EuServer
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=none&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%7C%E2%9A%A1%40EuServer
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=updn.pabloping.pro&amp;type=xhttp#vmess_iran
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s2.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s3.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s4.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=s5.nakosgol.com&amp;type=xhttp#%40ConfigV2RayNG
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=&amp;encryption=none&amp;host=nlbv1.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=updn.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=upnl.pabloping.pro&amp;type=xhttp#vmess_iran
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=vusp.pabloping.pro&amp;type=xhttp#vmess_iran
 vless://23993086-1e23-4c64-8126-a4fc1d7af735@3.71.35.172:11860?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%201
 vless://2487c34c-016e-43f3-9460-cb13b1f4c418@151.101.128.155:80?security=none&amp;type=ws&amp;host=UNLIMITEDDEV.channel-telegram-1.ir&amp;path=
 vless://24b6b7fe-eae6-4f82-ab02-fd46d7574e61@193.58.119.134:443?security=none&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#ConfigV2RayNG
@@ -1226,7 +1197,6 @@ vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mod
 vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr219.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
 vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%202
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#vmess_iran
 vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.67.71.90:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%209
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 vless://6a6c8662-1c43-4ae5-9018-486b288dfbaa@104.17.147.22:2082?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -1367,7 +1337,6 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.9
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=nobitex.sylu.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=nobitex.sylu.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.124.4.215:59599?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40vmess_iran%2010
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40ConfigV2RayNG
-vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#vmess_iran
 vless://b160cc4a-89f5-4279-9007-a4c84a13a175@aut-0001-xr.packet-drop-society.net:443?security=reality&amp;encryption=none&amp;pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#@V2rayNG3
 vless://b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%92%A5Free_Netplus%20%F0%9F%92%A5
 vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.18.32.47:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;host=private.digikala.lat&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=Ggjd.digikala.lat#@V2rayNG3
