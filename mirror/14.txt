@@ -122,17 +122,17 @@ trojan://telegram-id-privatevpns@13.37.158.58:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.37.204.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.41.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.176.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.197.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.71.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.7.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.153.205.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.157.43.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.103.56:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S104%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.44.27.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.45.25.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.44.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.103.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.35.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -239,7 +239,6 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443/?type=tcp&encryp
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?path=%2F146.56.99.255%3D56789&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.68ms
 vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443/?type=ws&encryption=none&host=rt.dddc.us.ci&path=%2FeDVWlsljXYWmzP5D1vsO&security=tls&sni=rt.dddc.us.ci&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG%20%20%2812%29
-vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@meliproxyy
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@www.wto.org:2087?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=harmony-501.pages.dev&path=%2Fassets&security=tls&sni=HarmonY-501pages.DEV&type=ws#REvil²³
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#%40vpnfail_bot%20free%v2ray
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.12.87:443/?type=tcp&encryption=none&sni=api.company-target.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2005
@@ -597,7 +596,6 @@ vless://cf95b75d-69fc-4a32-a0f8-8fc21c66a6e4@83.166.255.72:443/?type=grpc&encryp
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443/?type=ws&encryption=none&host=zh.hollowspot.ir&path=%2F&security=tls&sni=zh.hollowspot.ir&alpn=http%2F1.1#%F0%9F%87%A7%F0%9F%87%B7%40FREE2CONFIG%20
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#%F0%9F%9B%A1%20V%20122%20%40Outline_Vpn
 vless://d022bf00-7885-45b5-a170-bd37cc515fe0@83.228.230.174:46564/?type=tcp&encryption=none&sni=cloudflare.com&fp=chrome&security=reality&pbk=BRVg0Eufu2EeUPUp5PhBTD325dTi8M_SFxcpfqFzqz4&sid=3797#%F0%9F%93%A452%40oneclickvpnkeys
-vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757/?type=ws&encryption=none&path=%2F#proxy%20%2841%29
 vless://d14660cf-44f0-4b47-af50-dac98e19d46d@93.185.165.50:55211/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&sid=1885#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40azadiiivpn
 vless://d159a65d-51db-4b73-88bc-b665c10ee151@87.251.77.211:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=PycIxLERS3Kg4Kh7TQuiD1Kf9pNySxp5jMKEaIb_PjU&sid=f740030928#%F0%9F%A6%9A30%40oneclickvpnkeys
