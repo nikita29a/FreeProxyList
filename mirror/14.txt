@@ -128,7 +128,7 @@ trojan://telegram-id-privatevpns@15.224.7.21:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.205.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.78.14.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.157.43.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.103.56:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S104%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
