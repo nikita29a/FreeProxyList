@@ -1,4 +1,4 @@
-ss://a4f7ac23-8146-464b-a932-9753f97303aa@sr-d-2.sedarchahar.top:9102?security=none&encryption=none&host=api.live98.ir&headerType=http&type=tcp#IR🇮🇷
+ss://a4f7ac23-8146-464b-a932-9753f97303aa@sr-d-2.sedarchahar.top:9102?security=none&encryption=none&host=api.live98.ir&headerType=http&type=tcp#INT🌍
 trojan://telegram-id-directvpn@63.181.212.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 trojan://telegram-id-privatevpns@63.181.212.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE🇩🇪
@@ -66,7 +66,7 @@ vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=/107.174.121.
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#INT🌍
 vless://de41e034-f3b5-4465-b616-552f2019885a@3.67.64.135:40869?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#INT🌍
-vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&fp=chrome&type=ws&sni=om4.omidsuccess.uk#INT🌍
+vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&fp=chrome&type=ws&sni=om4.omidsuccess.uk#US🇺🇸
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@144.31.130.55:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#NO🇳🇴
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@144.31.130.58:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#INT🌍
 vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&encryption=none&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.xbox.com#INT🌍
