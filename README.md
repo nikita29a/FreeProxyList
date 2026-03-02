@@ -71,7 +71,8 @@ YouTube, Telegram, Instagram, Discord, ChatGPT, Grok, Roblox — без лишн
 22. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt
 23. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt
 24. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt
-25. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt  
+25. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt
+26. https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/26.txt 
 
 (бери первую, которая открылась)
 
