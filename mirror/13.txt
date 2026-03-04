@@ -4,7 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM0ODRlZGNmMWJlNDNj@163.171.181.49:48852#I
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.217:8080#INT🌍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdUA5MS4xMDcuMTQ0LjA6MTA4MA==#INT🌍
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#INT🌍
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@35.86.124.243:6688?security=tls&sni=baidu.com&allowInsecure=1&type=tcp&headerType=none#INT🌍
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@35.86.124.243:6688?security=tls&sni=baidu.com&allowInsecure=1&type=tcp&headerType=none#US🇺🇸
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#INT🌍
 trojan://t7MyWAxNqnFmLuGtFao5Vm6DUtYxM36Y@uk.nnmm.me:443?security=tls&type=tcp&path=&host=&sni=uk.nnmm.me&fp=&alpn=h2,http/1.1#INT🌍
 trojan://telegram-id-directvpn@15.188.31.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#INT🌍
@@ -31,12 +31,13 @@ vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&e
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#INT🌍
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DE🇩🇪
 vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#INT🌍
-vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#INT🌍
+vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR🇮🇷
 vless://4a098f1e-c449-4061-8b95-70ae594d3458@46.8.113.237:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#INT🌍
 vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?security=reality&encryption=none&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=eab8ab08e4d6faa0#INT🌍
 vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#INT🌍
 vless://5df01bcc-0540-452d-bdaa-3374821fa984@pm5.vhuma.com:443?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#INT🌍
 vless://5df01bcc-0540-452d-bdaa-3374821fa984@pm5.vhuma.com:443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#INT🌍
+vless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#INT🌍
 vless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#IR🇮🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#US🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
@@ -44,8 +45,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#AT🇦🇹
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=/?ed=2560&Telegram🇨🇳 @app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#DE🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#INT🌍
-vless://6863526a-8c03-499d-8144-0087a9b78ab7@2.144.20.38:443/?type=ws&path=/&host=&security=none#IR🇮🇷
+vless://6863526a-8c03-499d-8144-0087a9b78ab7@2.144.20.38:443/?type=ws&path=/&host=&security=none#INT🌍
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#US🇺🇸
+vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#INT🌍
 vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#IR🇮🇷
 vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?encryption=none&security=reality&sni=www.figma.com&fp=random&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&sid=8784&spx=/&type=tcp&headerType=hnone#IR🇮🇷
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#NL🇳🇱
@@ -54,7 +56,6 @@ vless://907b21dc-1beb-4e27-8c0f-f711b8fb223f@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.rea
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?type=ws&security=none#INT🌍
 vless://9482cc7a-bb23-432d-8485-d87451031243@azera.ivhredxd.online:80?type=tcp&encryption=none&security=none#INT🌍
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@141.101.114.214:2086?path=/&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#US🇺🇸
-vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=xhttp&sni=rus62.ruslucker.org#INT🌍
 vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=xhttp&sni=rus62.ruslucker.org#KR🇰🇷
 vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=rus62.ruslucker.org#INT🌍
 vless://a62c4be7-04b0-405c-ae9f-d04f2a43ec13@138.199.150.141:44344?security=none&encryption=none&headerType=http&type=tcp#INT🌍
