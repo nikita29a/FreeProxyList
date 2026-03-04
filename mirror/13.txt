@@ -25,7 +25,7 @@ vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.188.156:443?security=realit
 vless://1bed7f5e-3f85-45f2-a855-3b1fef63635b@usa122.luckerusa.org:444?path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=usa122.luckerusa.org#INT🌍
 vless://1cf6792c-079e-44f9-a2ce-2c00feae74bf@2.144.6.9:14032?encryption=none&type=tcp&headerType=none&security=none#IR🇮🇷
 vless://1cf6792c-079e-44f9-a2ce-2c00feae74bf@2.144.6.9:14032?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-vless://26524cce-d514-4014-a426-365fb266a14d@52.19.138.237:8443?security=tls&sni=bt5hpm5jf6.chinam.eu.org&type=ws&host=bt5hpm5jf6.chinam.eu.org&path=/danfeng?ed=2560&fp=random#IE🇮🇪
+vless://26524cce-d514-4014-a426-365fb266a14d@52.19.138.237:8443?security=tls&sni=bt5hpm5jf6.chinam.eu.org&type=ws&host=bt5hpm5jf6.chinam.eu.org&path=/danfeng?ed=2560&fp=random#INT🌍
 vless://301bdfc0-f68a-4498-b351-5a258378d16b@2.144.20.164:4040?type=tcp&encryption=none&security=none#INT🌍
 vless://305ec9f7-b1be-4ab3-8732-34bb0ddd8af0@94.183.241.160:81?type=tcp&security=none#INT🌍
 vless://3bb96984-fc3d-0bb8-912c-aeccbeafb334@5.188.140.209:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#INT🌍
@@ -55,7 +55,7 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=n
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#INT🌍
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#NL🇳🇱
 vless://8c27381c-3124-0008-bfa3-76d1a00265c8@37.139.32.50:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#INT🌍
-vless://907b21dc-1beb-4e27-8c0f-f711b8fb223f@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#INT🌍
+vless://907b21dc-1beb-4e27-8c0f-f711b8fb223f@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#IR🇮🇷
 vless://918d2f4c-f4aa-48bc-e6df-9aca117adb13@2.144.21.38:80?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?type=ws&security=none#INT🌍
 vless://9482cc7a-bb23-432d-8485-d87451031243@azera.ivhredxd.online:80?type=tcp&encryption=none&security=none#INT🌍
