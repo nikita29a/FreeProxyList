@@ -22,11 +22,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=/?ed=2560&
 vless://6266fdb6-1868-49fe-bf85-683e91b5fe98@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://6dddb6aa-e174-4e55-9eb8-04c7592ee462@ninja.thegameuhb.ir:1340?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#INT🌍
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#US🇺🇸
-vless://816d0dc6-2081-48b0-baea-0c8f1852640b@185.126.11.183:8443?type=tcp&security=none#INT🌍
-vless://83222b14-5fff-45b0-f089-e81e4d507494@94.183.241.152:2026?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#INT🌍
+vless://816d0dc6-2081-48b0-baea-0c8f1852640b@185.126.11.183:8443?type=tcp&security=none#IR🇮🇷
+vless://83222b14-5fff-45b0-f089-e81e4d507494@94.183.241.152:2026?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#IR🇮🇷
 vless://87e99a87-fd93-4fee-905b-58caf3073fbe@fi.emshabshabe.ir:8086?security=&encryption=none&headerType=http&type=tcp#INT🌍
 vless://87e99a87-fd93-4fee-905b-58caf3073fbe@fi.emshabshabe.ir:8086?security=none&encryption=none&headerType=http&type=tcp#INT🌍
-vless://8ab64168-be12-4620-9ed3-055ac69c2e0f@Si.sanflow.ir:921?type=tcp&headerType=http&host=pro30afzar.com&security=none#IR🇮🇷
+vless://8ab64168-be12-4620-9ed3-055ac69c2e0f@Si.sanflow.ir:921?type=tcp&headerType=http&host=pro30afzar.com&security=none#INT🌍
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#NL🇳🇱
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#INT🌍
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#INT🌍
@@ -75,6 +75,5 @@ vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiJ1azEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI0YmI5MWI2Yy1iZTNkLTU0NjItMzBlZC1kMTI3ZjhkZDYxYWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ1azEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI0YmI5MWI2Yy1iZTNkLTU0NjItMzBlZC1kMTI3ZjhkZDYxYWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJkZS0xLXR1bi5oZWFsaW5nZmx1ZW5jZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhZmViYXphYXIuaXIiLCJpZCI6Ijg3OWVkMDg0LWMzNzMtNDUxYi04YjlkLWQyZjdlNWUyMjZlMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4MDgwIiwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJkZS0xLXR1bi5oZWFsaW5nZmx1ZW5jZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhZmViYXphYXIuaXIiLCJpZCI6Ijg3OWVkMDg0LWMzNzMtNDUxYi04YjlkLWQyZjdlNWUyMjZlMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4MDgwIiwicHMiOiJJUlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJmdHBwYW5lbC5sdXgtY2FiaW4uaXIiLCJhaWQiOiIwIiwiaG9zdCI6ImFudGVuLmlyIiwiaWQiOiI0MjhmOWU3ZS1mMDFlLTQ1MGEtYmRjYS05NWMwZmMyNTBmNDAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjEwMCwicHMiOiJJTlRcdWQ4M2NcdWRmMGQiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzdjQub3h5cGluZ2JvdC5pbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6IjkzMjQ1ZGU4LTQ2MjEtNDNkMC1hMzdjLTA2ZjM0MTRjZTE0YiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIxOTI4OCIsInBzIjoiSU5UXHVkODNjXHVkZjBkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
