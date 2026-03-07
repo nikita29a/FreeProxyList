@@ -685,8 +685,6 @@ ss://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-919
 ss://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 ss://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?security=reality&amp;encryption=none&amp;pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=f1071c148a5aefc4#@V2rayNG3
 ss://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?security=reality&amp;encryption=none&amp;pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=f1071c148a5aefc4#@V2rayNG3
-ss://d10bf921-9b53-434f-9fc7-2af7a3dad17b@109.95.65.242:8032?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%40Hddify
-ss://d10bf921-9b53-434f-9fc7-2af7a3dad17b@109.95.65.242:8032?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#@Hddify
 ss://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@104.21.13.125:2095?security=none&amp;type=ws&amp;host=www.speedtest.net.Jaricopen.Shop.&amp;path=/
 ss://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@upload.ir:2095?type=ws&amp;path=/
 ss://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=rahgozar.italiantourism.net&amp;type=httpupgrade&amp;sni=rahgozar.italiantourism.net.#%F0%9F%9B%A1%20V%2052%20%40Outline_Vpn
@@ -976,7 +974,7 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;path=/juzigongyi&amp;Host=09jzus.zdzdzd.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-07-Mar-2026 16:06
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-07-Mar-2026 17:49
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
@@ -1508,8 +1506,6 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?security=reality&amp;encryption=none&amp;pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=f1071c148a5aefc4#@V2rayNG3
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?security=reality&amp;encryption=none&amp;pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=f1071c148a5aefc4#@V2rayNG3
-vless://d10bf921-9b53-434f-9fc7-2af7a3dad17b@109.95.65.242:8032?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%40Hddify
-vless://d10bf921-9b53-434f-9fc7-2af7a3dad17b@109.95.65.242:8032?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#@Hddify
 vless://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@104.21.13.125:2095?security=none&amp;type=ws&amp;host=www.speedtest.net.Jaricopen.Shop.&amp;path=/
 vless://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@upload.ir:2095?type=ws&amp;path=/
 vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=rahgozar.italiantourism.net&amp;type=httpupgrade&amp;sni=rahgozar.italiantourism.net.#%F0%9F%9B%A1%20V%2052%20%40Outline_Vpn
