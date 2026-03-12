@@ -13,7 +13,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.99.68:22224?type=ws&security=
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#US🇺🇸
 vless://134ecca9-0517-4842-a5a9-0cef196845d5@pourhasan.power-telegram.com:29088?type=tcp&security=none#INT🌍
 vless://13d2b959-9bc1-40eb-eb69-7856f3495a7f@151.243.3.59:15187?encryption=none&security=none&type=tcp#INT🌍
-vless://17b011f2-e11f-4314-a94b-9f94e98013a0@85.133.197.111:19996?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://17b011f2-e11f-4314-a94b-9f94e98013a0@85.133.197.111:19996?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@85.192.41.103:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#INT🌍
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-frankfurt.nethcloud.top:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#DE🇩🇪
 vless://2dd47d3e-62aa-479c-a5c2-34b4826f3773@162.159.153.187:8443?allowInsecure=1&encryption=none&host=52yunwang.dpdns.org&path=/&security=tls&sni=52yunwang.dpdns.org&type=ws#INT🌍
