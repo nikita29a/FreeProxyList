@@ -17,7 +17,7 @@ vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.189.87:443?encryption=none&
 vless://138df692-6fd2-4de0-ad01-3e96078e2dc9@212.233.98.113:47013?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE&security=reality&sni=eh.vk.com&type=tcp#INT🌍
 vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=platform.darkspacex.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=platform.darkspacex.ir#US🇺🇸
 vless://191f912f-7afa-496a-af23-f48eebe7f3bb@188.114.98.0:2053?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=platform.darkspacex.ir#US🇺🇸
-vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=a4.maxriser.ir&fp=chrome&type=ws&sni=a4.maxriser.ir#US🇺🇸
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=a4.maxriser.ir&fp=chrome&type=ws&sni=a4.maxriser.ir#INT🌍
 vless://232dcd07-d3d6-4fc6-a802-1d967f1e1a0a@188.114.98.0:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=api-fr.serx.ir#US🇺🇸
 vless://3163a1be-663a-47ff-8b54-8e6a5591910d@hool.pollux.live:6064?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#US🇺🇸
