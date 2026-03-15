@@ -677,7 +677,6 @@ trojan://telegram-id-privatevpns@18.159.99.186:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@18.184.163.171:22222?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-7%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@18.193.206.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.127.99.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.103.56:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S104%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@35.181.222.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -685,6 +684,7 @@ trojan://telegram-id-privatevpns@52.28.114.17:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S102%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@52.57.221.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.248.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.120.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://trojan@ip.sb:8443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2829%29
 trojan://wufrkn1n-a8yg-utgy-261j-29l2q5pk25ht@127.0.0.1:4080?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-43
@@ -865,7 +865,6 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443/?type=tcp&encryp
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-146
 vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.225:443?security=reality&encryption=none&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cd11af#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-101%20%F0%9F%87%AA%F0%9F%87%AA
 vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node5.telegavpn.org#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-241
-vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?path=%2F146.56.99.255%3D56789&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.68ms
 vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443/?type=ws&encryption=none&host=rt.dddc.us.ci&path=%2FeDVWlsljXYWmzP5D1vsO&security=tls&sni=rt.dddc.us.ci&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG%20%20%2812%29
 vless://349aca87-ff5b-45c1-8512-4a115c11f95b@176.122.27.49:443?security=reality&encryption=none&pbk=KZvWAhkTcdXO5_pJCX9h0AzKL1ime5_ZHrHj9lYI-Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=48a7d74aff6a#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D9%88%DB%8C%D8%AF%20%40ShadowProxy66%20-60%20%F0%9F%87%B3%F0%9F%87%B4
