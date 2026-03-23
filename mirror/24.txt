@@ -7,7 +7,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.0.245:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.160.56:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40filembad
 vless://06027698-17ef-44fc-854c-0adcf7848630@custom.rezadvr.ir:43434/?type=tcp&encryption=none&security=none#Test%F0%9F%87%AE%F0%9F%87%B7DSR_TM
 vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#DSR_TM
-vless://07ed4a85-d973-440a-a20e-54496bd8b985@185.143.233.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mapircdn.com#%40Blank_Vpn%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#@SudoFluxV2
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#🇸🇬
 vless://08426869-4fe0-4f44-baf0-1273acd31f08@de-6-tun-single.starping5.fun:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40DSR_TM
@@ -370,8 +369,6 @@ vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=non
 vless://ce68da9526d51008695fa53e3ee84cbb@g5.arvantelecom.cloud:60118?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp
 vless://ce68da9526d51008695fa53e3ee84cbb@g5.arvantelecom.cloud:60118?type=tcp&security=none&headerType=http&host=speedtest.net
 vless://cedd2496-200b-45f5-aeb0-9134fc4d2f0f@84.252.135.252:2443?security=reality&encryption=none&pbk=S-87aAW3KbKVfjiPy1qvy1PjQ1vj4hkbxSk4hI9zAkU&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=53dba1d51d6819f1#%E2%9A%A1Telegram%20%3D%20%40netroovpn12
-vless://cfc7976a-11eb-94d1-18a7-1dcacfc0a7cf@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#SOPI_CL0SE%20%D8%AA%D8%B3%D8%AA
-vless://cfc7976a-11eb-94d1-18a7-1dcacfc0a7cf@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#SOPI_CL0SE%20%D8%AA%D8%B3%D8%AA%DB%B2
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#%40filembad
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#@SudoFluxV2
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#🇸🇬
