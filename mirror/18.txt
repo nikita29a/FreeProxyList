@@ -631,7 +631,6 @@ ss://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=&amp;encr
 ss://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
 ss://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#.https://t.me/v
 ss://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#https://t.me/vip_vpn_2022
-ss://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#Allnet telegram:@ultrasurf_12
 ss://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 ss://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?security=reality&amp;encryption=none&amp;pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=df8611c07d#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hex.1tb.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=hex.1tb.workers.dev#%40ConfigV2RayNG%2B3
@@ -962,7 +961,7 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;path=/juzigongyi&amp;Host=09jzus.zdzdzd.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-26-Mar-2026 11:29
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-26-Mar-2026 12:32
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
@@ -1440,7 +1439,6 @@ vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=&amp;e
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
 vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#.https://t.me/v
 vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#https://t.me/vip_vpn_2022
-vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#Allnet telegram:@ultrasurf_12
 vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?security=reality&amp;encryption=none&amp;pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=df8611c07d#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hex.1tb.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=hex.1tb.workers.dev#%40ConfigV2RayNG%2B3
