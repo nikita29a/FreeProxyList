@@ -148,6 +148,34 @@ async def list_existing_files(session: aiohttp.ClientSession) -> dict[str, str]:
         }
 
 
+async def get_remote_file_content(session: aiohttp.ClientSession, path: str) -> str | None:
+    """Return decoded remote file content or None if not found."""
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN is not set")
+
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "FreeProxyList-sync",
+    }
+
+    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
+
+    async with session.get(api, headers=headers) as r:
+        if r.status == 404:
+            return None
+        r.raise_for_status()
+        data = await r.json()
+        # content is base64 encoded
+        encoded = data.get("content")
+        if not encoded:
+            return None
+        # remove potential newlines in the base64 payload
+        b64 = encoded.replace("\n", "")
+        return base64.b64decode(b64).decode("utf-8")
+
+
 async def upload_file_to_github(
     session: aiohttp.ClientSession,
     path: str,
@@ -230,7 +258,8 @@ async def main_async():
 
         has_updates = False
         for path, content in results.items():
-            new_hash = sha1(content)
+            # use normalized hashing so line ending differences don't cause spurious updates
+            new_hash = sha1_text(content)
             old_hash = hashes.get(path)
             existing_sha = existing_files.get(path)
 
@@ -241,6 +270,21 @@ async def main_async():
             if not content:
                 hashes[path] = new_hash
                 continue
+
+            # If the file exists on GitHub, fetch its current content and compare to
+            # avoid uploading (and creating empty commits) when the remote file is
+            # already identical but our local hash cache is missing/out-of-date.
+            if existing_sha:
+                try:
+                    remote = await get_remote_file_content(session, path)
+                except Exception as e:
+                    print(f"[WARN] failed to fetch remote content for {path}: {e}")
+                    remote = None
+
+                if remote is not None and normalize(remote) == normalize(content):
+                    print(f"[SKIP-REMOTE-SAME] {path}")
+                    hashes[path] = new_hash
+                    continue
 
             has_updates = True
             print("[UPDATE]" if existing_sha else "[CREATE]", path)
