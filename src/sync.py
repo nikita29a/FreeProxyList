@@ -2,14 +2,13 @@
 
 import argparse
 import base64
-import datetime
 import hashlib
 import json
 import os
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import aiohttp
+import asyncio
 from pathlib import Path
 
-import requests
 from cryptography.fernet import Fernet
 
 # ========================= DATA =========================
@@ -47,11 +46,12 @@ GITHUB_OWNER = "nikita29a"
 GITHUB_REPO = "FreeProxyList"
 TARGET_DIR = "mirror"
 COMMIT_MESSAGE = "Mirror upstream proxy sources"
-MAX_WORKERS = 15
-TIMEOUT = 30
+MAX_CONCURRENT = 15
+TIMEOUT = aiohttp.ClientTimeout(total=30)
 ROOT = Path(__file__).resolve().parent.parent
 HASH_FILE = ROOT / ".cache" / "hashes.json"
 # ========================================================
+
 
 def sha1(text: str) -> str:
     return hashlib.sha1(text.encode("utf-8")).hexdigest()
@@ -68,34 +68,9 @@ def save_hashes(hashes: dict):
     HASH_FILE.parent.mkdir(parents=True, exist_ok=True)
     HASH_FILE.write_text(json.dumps(hashes, indent=2))
 
+
 # ---------- HELPERS ----------
-def make_session() -> requests.Session:
-    token = os.getenv("GITHUB_TOKEN")
-    if not token:
-        raise RuntimeError("GITHUB_TOKEN is not set")
 
-    s = requests.Session()
-    s.headers.update({
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "User-Agent": "FreeProxyList-sync",
-    })
-    return s
-
-
-def normalize(text: str) -> str:
-    return text.replace("\r\n", "\n").rstrip() + "\n"
-
-
-def sha1_text(text: str) -> str:
-    return hashlib.sha1(normalize(text).encode()).hexdigest()
-
-
-def sha1_line(text: str) -> str:
-    return hashlib.sha1(normalize(text).encode()).hexdigest()
-
-
-# ---------- URLS ----------
 
 def load_urls() -> list[str]:
     key = os.getenv("URLS_SECRET_KEY")
@@ -106,16 +81,28 @@ def load_urls() -> list[str]:
     return [f.decrypt(u.encode()).decode() for u in ENCRYPTED_URLS]
 
 
+def normalize(text: str) -> str:
+    return text.replace("\r\n", "\n").rstrip() + "\n"
+
+
+def sha1_text(text: str) -> str:
+    return hashlib.sha1(normalize(text).encode()).hexdigest()
+
+
 # ---------- FETCH ----------
 
-def fetch_and_process(index: int, url: str) -> tuple[str, str]:
-    r = requests.get(url, timeout=TIMEOUT)
-    r.raise_for_status()
+
+async def fetch_and_process(
+    session: aiohttp.ClientSession, index: int, url: str
+) -> tuple[str, str]:
+    async with session.get(url) as r:
+        r.raise_for_status()
+        text = await r.text()
 
     seen = set()
     lines = []
 
-    for line in r.text.splitlines():
+    for line in text.splitlines():
         line = line.strip()
         if not line:
             continue
@@ -131,31 +118,52 @@ def fetch_and_process(index: int, url: str) -> tuple[str, str]:
 
 # ---------- GITHUB ----------
 
-def list_existing_files(session: requests.Session) -> dict[str, str]:
+
+async def list_existing_files(session: aiohttp.ClientSession) -> dict[str, str]:
     """
     Returns: { 'mirror/1.txt': '<sha>', ... }
     """
-    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{TARGET_DIR}"
-    r = session.get(api)
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN is not set")
 
-    if r.status_code == 404:
-        return {}
-
-    r.raise_for_status()
-
-    return {
-        item["path"]: item["sha"]
-        for item in r.json()
-        if item.get("type") == "file"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "FreeProxyList-sync",
     }
 
+    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{TARGET_DIR}"
 
-def upload_file_to_github(
-    session: requests.Session,
+    async with session.get(api, headers=headers) as r:
+        if r.status == 404:
+            return {}
+
+        r.raise_for_status()
+
+        return {
+            item["path"]: item["sha"]
+            for item in await r.json()
+            if item.get("type") == "file"
+        }
+
+
+async def upload_file_to_github(
+    session: aiohttp.ClientSession,
     path: str,
     content: str,
     existing_sha: str | None,
 ):
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN is not set")
+
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "FreeProxyList-sync",
+    }
+
     payload = {
         "message": COMMIT_MESSAGE,
         "content": base64.b64encode(content.encode()).decode(),
@@ -165,13 +173,15 @@ def upload_file_to_github(
         payload["sha"] = existing_sha
 
     api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
-    r = session.put(api, json=payload)
 
-    if r.status_code not in (200, 201):
-        raise RuntimeError(f"Upload failed {path}: {r.status_code} {r.text}")
+    async with session.put(api, headers=headers, json=payload) as r:
+        if r.status not in (200, 201):
+            text = await r.text()
+            raise RuntimeError(f"Upload failed {path}: {r.status} {text}")
 
 
 # ---------- CLI ----------
+
 
 def parse_args():
     p = argparse.ArgumentParser(description="Mirror proxy sources to GitHub")
@@ -181,30 +191,29 @@ def parse_args():
 
 # ---------- MAIN ----------
 
-def main():
+
+async def main_async():
     print("=== sync_proxies run ===")
 
     args = parse_args()
     urls = load_urls()
     print(f"Loaded {len(urls)} URLs")
 
-    # 1️⃣ fetch all sources (as before)
-    results: dict[str, str] = {}
+    connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT)
+    async with aiohttp.ClientSession(timeout=TIMEOUT, connector=connector) as session:
+        tasks = [fetch_and_process(session, i + 1, url) for i, url in enumerate(urls)]
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {
-            executor.submit(fetch_and_process, i + 1, url): url
-            for i, url in enumerate(urls)
-        }
+        results: dict[str, str] = {}
+        fetch_results = await asyncio.gather(*tasks, return_exceptions=True)
 
-        for future in as_completed(futures):
-            url = futures[future]
-            try:
-                filename, content = future.result()
+        for i, result in enumerate(fetch_results):
+            url = urls[i]
+            if isinstance(result, Exception):
+                print(f"[FAIL] {url}: {result}")
+            else:
+                filename, content = result
                 results[f"{TARGET_DIR}/{filename}"] = content
                 print(f"[FETCHED] {url}")
-            except Exception as e:
-                print(f"[FAIL] {url}: {e}")
 
     if args.dry_run:
         os.makedirs(TARGET_DIR, exist_ok=True)
@@ -214,29 +223,33 @@ def main():
             print(f"[DRY] {path}")
         return
 
-    # 2️⃣ GitHub sync (OPTIMIZED)
-    session = make_session()
-    existing_files = list_existing_files(session)
-    hashes = load_hashes()
+    connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT)
+    async with aiohttp.ClientSession(timeout=TIMEOUT, connector=connector) as session:
+        existing_files = await list_existing_files(session)
+        hashes = load_hashes()
 
-    for path, content in results.items():
-        new_hash = sha1(content)
-        old_hash = hashes.get(path)
-        existing_sha = existing_files.get(path)
+        for path, content in results.items():
+            new_hash = sha1(content)
+            old_hash = hashes.get(path)
+            existing_sha = existing_files.get(path)
 
-        if old_hash == new_hash:
-            print(f"[SKIP] {path}")
-            continue
+            if old_hash == new_hash:
+                print(f"[SKIP] {path}")
+                continue
 
-        print("[UPDATE]" if existing_sha else "[CREATE]", path)
-        upload_file_to_github(session, path, content, existing_sha)
+            print("[UPDATE]" if existing_sha else "[CREATE]", path)
+            await upload_file_to_github(session, path, content, existing_sha)
 
-        hashes[path] = new_hash
+            hashes[path] = new_hash
 
     print("[✓] Saving hashes...")
     save_hashes(hashes)
 
     print("[✓] Sync completed")
+
+
+def main():
+    asyncio.run(main_async())
 
 
 if __name__ == "__main__":
