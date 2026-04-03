@@ -237,6 +237,9 @@ async def main_async():
                 print(f"[SKIP] {path}")
                 continue
 
+            if not content:
+                continue
+
             print("[UPDATE]" if existing_sha else "[CREATE]", path)
             await upload_file_to_github(session, path, content, existing_sha)
 
