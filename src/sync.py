@@ -228,6 +228,7 @@ async def main_async():
         existing_files = await list_existing_files(session)
         hashes = load_hashes()
 
+        has_updates = False
         for path, content in results.items():
             new_hash = sha1(content)
             old_hash = hashes.get(path)
@@ -238,17 +239,23 @@ async def main_async():
                 continue
 
             if not content:
+                hashes[path] = new_hash
                 continue
 
+            has_updates = True
             print("[UPDATE]" if existing_sha else "[CREATE]", path)
             await upload_file_to_github(session, path, content, existing_sha)
 
             hashes[path] = new_hash
 
-    print("[✓] Saving hashes...")
-    save_hashes(hashes)
+        if not has_updates:
+            print("[✓] No changes detected")
+            return
 
-    print("[✓] Sync completed")
+        print("[✓] Saving hashes...")
+        save_hashes(hashes)
+
+        print("[✓] Sync completed")
 
 
 def main():
