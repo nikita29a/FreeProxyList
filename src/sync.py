@@ -192,6 +192,19 @@ async def upload_file_to_github(
         "User-Agent": "FreeProxyList-sync",
     }
 
+    # Double-check current remote content right before uploading to avoid
+    # creating unnecessary commits when the file is already identical.
+    try:
+        remote = await get_remote_file_content(session, path)
+    except Exception as e:
+        print(f"[WARN] failed to fetch remote content before upload for {path}: {e}")
+        remote = None
+
+    if remote is not None and normalize(remote) == normalize(content):
+        # Nothing to do — remote already contains the same normalized content.
+        print(f"[SKIP-REMOTE-SAME-BEFORE-UPLOAD] {path}")
+        return False
+
     payload = {
         "message": COMMIT_MESSAGE,
         "content": base64.b64encode(content.encode()).decode(),
@@ -206,6 +219,8 @@ async def upload_file_to_github(
         if r.status not in (200, 201):
             text = await r.text()
             raise RuntimeError(f"Upload failed {path}: {r.status} {text}")
+
+    return True
 
 
 # ---------- CLI ----------
@@ -286,11 +301,18 @@ async def main_async():
                     hashes[path] = new_hash
                     continue
 
-            has_updates = True
-            print("[UPDATE]" if existing_sha else "[CREATE]", path)
-            await upload_file_to_github(session, path, content, existing_sha)
+            # Attempt upload; upload_file_to_github will re-check remote and
+            # return False if the remote already matches, avoiding an empty
+            # commit. Only mark updates if an actual upload occurred.
+            uploaded = await upload_file_to_github(session, path, content, existing_sha)
 
-            hashes[path] = new_hash
+            if uploaded:
+                has_updates = True
+                print("[UPDATE]" if existing_sha else "[CREATE]", path)
+                hashes[path] = new_hash
+            else:
+                # remote matched; update hash cache so we don't try again
+                hashes[path] = new_hash
 
         if not has_updates:
             print("[✓] No changes detected")
