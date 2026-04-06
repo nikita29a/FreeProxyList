@@ -156,6 +156,7 @@ vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?securit
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&security=&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@V2rayNG3
 vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#@V2rayNG3
+vless://6a653d30-8828-4cc3-bc21-db63de4f37e3@185.143.233.84:8880?path=%2F&security=none&encryption=none&host=new2.zabuzabfr.ir&type=httpupgrade#%40@ultrasurf_12
 vless://6abc75eb-b58b-4e28-af59-20f41bdf7a2a@104.18.32.47:443?path=%2Frestart&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=last.ownlink.pro&fp=chrome&type=ws&allowInsecure=0&sni=last.ownlink.pro#@V2rayNG3
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?path=%2F%3Fed&security=tls&encryption=none&host=current.ircp.online&type=ws&sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=current.ircp.online&type=ws&sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
