@@ -119,7 +119,6 @@ trojan://telegram-id-privatevpns@13.36.250.59:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.38.154.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.149.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.235.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.46.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.29.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.68.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -127,6 +126,7 @@ trojan://telegram-id-privatevpns@15.237.155.59:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.157.121.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.170.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.121.164.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.189.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.196.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.109.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -709,6 +709,7 @@ vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI4LjIxNy4xMy43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZjFhZDZjNy01OTg3LTQzMTQtODJiYi1iNDM5OTA0MGQwNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNzY5IiwicHMiOiLwn4et8J+HsCBUQ1AtTm9uZSDwn5OBIEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiI4Mi4xNTIuOTguMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA1MmNlYjY3LTc5YzctNDVkYS1iYTRiLTQyZTY1OWJiODFmYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NSIsInBzIjoi8J+QijM5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVjJyYXlfQ29sbGVjdG9yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDMuMjI5LjEyNC4zIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyOTJlOWM5MC0yNWIzLTRmZjUtYjk4YS05ZWY1ODc3NzE0YWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjA1MjEsInBzIjoiZmlsZW1iYWQtNDA2Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ
 vmess://eyJhZGQiOiIxMDMuNjEuMTM5LjEzNyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmOGQ5M2NmYi0zZDVkLTQ0N2MtYTY5Ny0xNjQ5NmRkNzQ2OTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiJAVjJyYXlfQ29sbGVjdG9yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMTkuMTc0LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJAbmVrb3Bpbmdib3RfMTgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMTkuMTczLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLimpnvuI8zQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
