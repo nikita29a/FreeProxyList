@@ -341,6 +341,8 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#%40v2rayng_org
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%F0%9F%87%A7%F0%9F%87%AC%40FreakConfig
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig
+ss://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%842
+ss://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
 ss://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 ss://a1a91a85-4997-40ca-a32c-269f39d1381c@104.18.32.47:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=s4294287AAMf.gamenexus.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=s4294287AAMf.gamenexus.ir#@V2rayNG3
 ss://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
@@ -401,6 +403,8 @@ ss://c049b9e1-3b34-4b3c-9e10-4978f11dec75@109.95.65.242:8032?security=none&amp;e
 ss://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#@V2rayNG3
 ss://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=uusaa.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%D9%85%D8%B1%D8%BA+%D8%A8%D8%B1%DB%8C%D8%A7%D9%86+%40freV2rayNG
 ss://c19fb567-74a9-454f-9757-e612fc4be371@85.114.138.39:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dropbox.com#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
+ss://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=armenia.chatgpt.com.siasia.ir&amp;type=httpupgrade#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%843
+ss://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=armenia.chatgpt.com.siasia.ir&amp;type=httpupgrade#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%843  رایتل
 ss://c2691112-a756-862e-da3d-1e0f3846b0bb@tunn.vpsino.com:2087?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG
 ss://c28188b7-3e78-4de9-bc7d-e651eb77ca8a@fin-tun.a1mshop2.xyz:12000?security=&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2B%7C
 ss://c3e909cc-584b-4c62-af48-34c9acef928b@vip-meli2.nightgemshop.com:443?security=&amp;encryption=none&amp;host=alef.ir&amp;headerType=http&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
@@ -662,7 +666,7 @@ trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&amp;security=none#@V2rayNG3
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#@V2rayNG3
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@V2rayNG3
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-Apr-2026 16:21
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-12-Apr-2026 17:27
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
@@ -675,6 +679,7 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;inse
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
+trojan://humanity@www.ignitelimit.com:443?security=tls&amp;sni=www.ignitelimit.com&amp;fp=chrome&amp;type=ws&amp;path=/assignment#@ultrasurf_12
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&amp;headerType=none&amp;type=tcp#@V2rayNG3
 trojan://telegram-id-privatevpns@13.36.189.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.37.214.83:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
@@ -999,6 +1004,8 @@ vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@mail.tomandjery.eu:1001?security=re
 vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@www.tomandjery.eu:1003?security=reality&amp;encryption=none&amp;pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#%40ConfigV2RayNG%2BA5
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://LomesNet@104.18.32.47:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=gotohell.waruntilvictory.xyz&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=gotohell.waruntilvictory.xyz#@V2rayNG3
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%842
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
 vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 vless://a1a91a85-4997-40ca-a32c-269f39d1381c@104.18.32.47:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=s4294287AAMf.gamenexus.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=s4294287AAMf.gamenexus.ir#@V2rayNG3
 vless://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%0A%40ConfigV2RayNG
@@ -1059,6 +1066,8 @@ vless://c049b9e1-3b34-4b3c-9e10-4978f11dec75@109.95.65.242:8032?security=none&am
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#@V2rayNG3
 vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=uusaa.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&amp;type=ws#%D9%85%D8%B1%D8%BA+%D8%A8%D8%B1%DB%8C%D8%A7%D9%86+%40freV2rayNG
 vless://c19fb567-74a9-454f-9757-e612fc4be371@85.114.138.39:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dropbox.com#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
+vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=armenia.chatgpt.com.siasia.ir&amp;type=httpupgrade#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%843
+vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=%2Fapi&amp;security=none&amp;encryption=none&amp;host=armenia.chatgpt.com.siasia.ir&amp;type=httpupgrade#%40SERVERNETT-%D8%B1%D8%A7%DB%8C%D8%AA%D9%843  رایتل
 vless://c2691112-a756-862e-da3d-1e0f3846b0bb@tunn.vpsino.com:2087?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG
 vless://c28188b7-3e78-4de9-bc7d-e651eb77ca8a@fin-tun.a1mshop2.xyz:12000?security=&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#%40ConfigV2RayNG%2B%7C
 vless://c3e909cc-584b-4c62-af48-34c9acef928b@vip-meli2.nightgemshop.com:443?security=&amp;encryption=none&amp;host=alef.ir&amp;headerType=http&amp;type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
