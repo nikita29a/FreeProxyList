@@ -271,7 +271,6 @@ vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@212.113.119.31:443/?type=tcp&encryp
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80/?type=ws&encryption=none&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B3India%2B-%3E%2B%F0%9F%87%AE%F0%9F%87%B3India%2B%E2%9A%A1%40DeamNet_Proxy%20%285%29
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80/?type=ws&encryption=none&path=%2Fvless%2F#hamedvpns-42-%F0%9F%87%AE%F0%9F%87%B3
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#@meliproxyy
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#@meliproxyy
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#Channel%20id%3A%20%40ShadowProxy66
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org#@meliproxyy
@@ -451,7 +450,6 @@ vless://5f221a89-3f17-48ad-9bab-ad7722df7df9@51.250.75.178:4443/?type=tcp&encryp
 vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760/?type=tcp&encryption=none&sni=yandex.ru&fp=chrome&security=reality&pbk=ktZ1lxOpDoIq3mk39kNAi1uK0z3qTA6f-6u2KbQmICg&sid=58a8787420b6a153#%F0%9F%93%A423%40oneclickvpnkeys
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Channel%20id%3A%20%40ShadowProxy66
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@meliproxyy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#Channel%20id%3A%20%40ShadowProxy66
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Channel%20id%3A%20%40ShadowProxy66
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
@@ -534,7 +532,6 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096/?type=ws&encrypt
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096/?type=ws&encryption=none&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top#%E2%99%BB%EF%B8%8F26%40oneclickvpnkeys
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096/?type=ws&encryption=none&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&alpn=http%2F1.1&fp=chrome#hamedvpns-75-%F0%9F%87%A9%F0%9F%87%AA
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096/?type=ws&encryption=none&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%BA%F0%9F%87%B8United%2BStates%2B%E2%9A%A1%40DeamNet_Proxy%20%288%29
-vless://69dcc851-1c6a-4e33-a84a-46415e1d1274@blubank.sb24.ir:80?type=ws&encryption=none&path=%2Fwp-content%2Flitespeed&host=clients.bmind.ir&security=none#@meliproxyy
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314/?encryption=none&host=bmw.com&type=tcp&headerType=http#%40NETMelliAnti
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314/?encryption=none&host=%2F---V2RRVIP&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
