@@ -159,7 +159,6 @@ ss://6378d738-1ed3-4678-89ab-27c7f19b5272@51.89.119.171:59494?security=none&amp;
 ss://6742388969-client-81f@ne1.tunnelx.space:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&amp;security=&amp;encryption=none&amp;host=ws.ne1.tunnelx.space&amp;type=ws#@V2rayNG3
 ss://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=blazeus150your-name.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
 ss://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr219.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
-ss://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
 ss://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 ss://6abc75eb-b58b-4e28-af59-20f41bdf7a2a@104.18.32.47:443?path=%2Frestart&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=last.ownlink.pro&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=last.ownlink.pro#@V2rayNG3
@@ -485,7 +484,7 @@ trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&amp;security=none#@V2rayNG3
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#@V2rayNG3
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@V2rayNG3
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-22-Apr-2026 03:01
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-22-Apr-2026 05:34
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNG3
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
@@ -680,7 +679,6 @@ vless://6378d738-1ed3-4678-89ab-27c7f19b5272@51.89.119.171:59494?security=none&a
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&amp;security=&amp;encryption=none&amp;host=ws.ne1.tunnelx.space&amp;type=ws#@V2rayNG3
 vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=blazeus150your-name.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
 vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr219.global.ssl.fastly.net&amp;type=xhttp#@V2rayNG3
-vless://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 vless://6abc75eb-b58b-4e28-af59-20f41bdf7a2a@104.18.32.47:443?path=%2Frestart&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=last.ownlink.pro&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=last.ownlink.pro#@V2rayNG3
