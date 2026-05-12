@@ -125,6 +125,7 @@ vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=
 vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3
 vless://3660aeec-1b99-44e0-aeda-7f3f967e9957@CHATGPT.com:2096?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=3RdavbnhgvAa.infospeedtest.com&fp=chrome&type=ws&allowInsecure=0&sni=3RdavbnhgvAa.infospeedtest.com#@V2rayNG3
 vless://36ac392a-a16a-47bb-bce0-e3e05e7c4794@2.188.227.196:24160?security=none&encryption=none&headerType=none&type=tcp#telegram%40v2rayNG_Matsuri
+vless://3728fc28-910c-4a9c-888c-c08c3e2f4a06@snapp.ir:2052?encryption=none&type=ws&path=%2Freq2&host=snapp1.gptpersian.ir#ultrasurf_12
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
 vless://39104c83-ec7d-42bf-9810-3f8d15a0d710@v4.amindark.sbs:31304?security=none&encryption=none&headerType=none&type=tcp#telegram%40v2rayNG_Matsuri
