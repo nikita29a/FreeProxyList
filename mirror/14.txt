@@ -113,7 +113,7 @@ trojan://psycho@104.21.80.1:443/?type=tcp&security=tls&sni=PSYchO.SueX12.Ir#%F0%
 trojan://telegram-id-directvpn@35.181.103.56:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#OurChannel%20%3A%20%40DirectVPN
 trojan://telegram-id-directvpn@35.181.181.24:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#OurChannel%20%3A%20%40DirectVPN
 trojan://telegram-id-privatevpns@13.36.26.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.198.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.38.225.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.241.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.94.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.181.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -123,7 +123,6 @@ trojan://telegram-id-privatevpns@15.236.132.94:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.237.54.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.55.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.197.233.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.141.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.124.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.74.67.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -134,6 +133,7 @@ trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=
 trojan://telegram-id-privatevpns@51.44.198.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.28.27.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S102%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
+trojan://telegram-id-privatevpns@63.182.26.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.179.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://trojan@ip.sb:8443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2829%29
 vless://001c68ea-7186-4d3e-863b-7b513e73e7a0@51.250.46.121:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8&sid=8cd9d7c88b8fd22c#%F0%9F%93%A471%40oneclickvpnkeys
@@ -449,6 +449,7 @@ vless://8f7d4730-76ef-4998-b1a6-e91eb1d47b28@193.32.176.44:443/?type=tcp&encrypt
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.195.213.223:443/?type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Free_World2%20%2821%29
 vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FREE2CONFIG%20%20%2853%29
 vless://9748d6dc-d7a8-45cd-b4df-00476cac75f8@91.99.8.3:2083/?type=tcp&encryption=none&sni=www.yahoo.com&fp=chrome&security=reality&pbk=kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw&sid=d1#%E2%AD%9044%40oneclickvpnkeys
+vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&type=ws&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#https://t.me/ConfigX2ray
 vless://99486c7d-a7cd-4690-be46-a324f3190df1@172.64.152.23:443?path=%2Fscluubws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368852078428.defender-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368852078428.defender-rvltnc.top#Server%2016%20Group%202
 vless://99bd2791-8e27-435b-a1e2-c9b625101af9@64.188.73.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU&sid=d91248fbca#%F0%9F%AA%9D82%40oneclickvpnkeys
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443/?type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Free_World2%20%2823%29
