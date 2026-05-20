@@ -137,7 +137,6 @@ trojan://humanity@193.151.143.6:40443?security=tls&sni=www.ignitelimit.com&insec
 trojan://humanity@193.151.145.252:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server65-Group1
 trojan://humanity@193.151.149.115:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server66-Group1
 trojan://humanity@193.151.152.206:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server68-Group1
-trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/ConfigX2ray
 trojan://humanity@193.151.152.73:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server67-Group1
 trojan://humanity@193.151.153.101:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server69-Group1
 trojan://humanity@2.144.15.100:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#@DickiriptorBot-Server6-Group1
@@ -167,6 +166,7 @@ trojan://humanity@37.152.186.182:40443?security=tls&sni=www.ignitelimit.com&inse
 trojan://humanity@37.32.11.121:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server73-Group1
 trojan://humanity@37.32.9.230:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server72-Group1
 trojan://humanity@5.202.11.232:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server85-Group1
+trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#https://t.me/ConfigX2ray
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server57-Group1
 trojan://humanity@85.198.20.177:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server58-Group1
 trojan://humanity@85.198.9.204:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#@DickiriptorBot-Server56-Group1
@@ -235,17 +235,16 @@ trojan://psycho@104.21.80.1:443/?type=tcp&security=tls&sni=PSYchO.SueX12.Ir#%F0%
 trojan://telegram-id-directvpn@35.181.103.56:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#OurChannel%20%3A%20%40DirectVPN
 trojan://telegram-id-directvpn@35.181.181.24:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#OurChannel%20%3A%20%40DirectVPN
 trojan://telegram-id-privatevpns@13.36.26.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.207.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.225.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.101.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.166.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.181.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.82.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.132.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.38.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.54.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.122.111.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.141.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.74.67.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.116.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.156.35.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.151.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -255,6 +254,7 @@ trojan://telegram-id-privatevpns@51.102.92.172:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.44.62.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.138.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S102%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
+trojan://telegram-id-privatevpns@63.176.4.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.182.26.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.184.236.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://trojan@ip.sb:8443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2829%29
@@ -858,7 +858,8 @@ vmess://eyJhZGQiOiJ0NjUubzFvLmluZGV2cy5pbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IuKame+4jzUwQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfm6EgViAxMDEgQE91dGxpbmVfVnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ5aGouaHVhbmdzaGFuZzIwMjYuaW5kZXZzLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5aGouaHVhbmdzaGFuZzIwMjYuaW5kZXZzLmluIiwiaWQiOiI3MjFkM2ZkMC1lOWYxLTQwYzMtOTJjZC1kNDQwNWE0MzE5ZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTERUcFc4VUlFblRBaU45TE15YSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfj4FSRUxBWS0xMDQuMjEuODAuMjI3LTA2MDMiLCJzY3kiOiJhdXRvIiwic25pIjoieWhqLmh1YW5nc2hhbmcyMDI2LmluZGV2cy5pbiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJEb3RwaW5nLm9jb2Rldi5zaG9wIiwiaWQiOiI0OTViNTQzNi02MzhjLTQ2NWEtYWRlMS05ZjFmNmY2OTg1YzYiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo3Mzc5LCJwcyI6ImZpbGVtYmFkLTM4NSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE5YmIyY2NhLWVkYjQtNGM0My04MDdmLTIwYmE1ZjAzOGQ4ZCIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIyMDEiLCJwcyI6ImZpbGVtYmFkLTM3NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI3YzdmN2RiLWIzNWUtNGJkZS1iM2QzLTE0ZjVhMmQ3NzhhYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTciLCJwcyI6ImZpbGVtYmFkLTM3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLwn5KrMjdAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJoZ3Ryb2phbi56YWJjLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGd0cm9qYW4uemFiYy5uZXQiLCJpZCI6ImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNjM5NWMyMCIsInBvcnQiOiIyMDgzIiwicHMiOiJwcm94eSAoNDkpIiwic2N5IjoiYXV0byIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0
 vmess://eyJhZGQiOiJsb3AuYmIzLmluZGV2cy5pbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9wLmJiMy5pbmRldnMuaW4iLCJpZCI6ImIwMjA4NjViLTc0MDQtNDg5NC1iYTY1LWE3NDE0YjEwY2RhMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ib1dVVmFVMHN4ck50RlNkT1BqcVNjN2Z6ZUpyIiwicG9ydCI6IjgwIiwicHMiOiLwn4eo8J+HpiBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCAoMTgpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
