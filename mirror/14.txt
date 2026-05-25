@@ -105,7 +105,6 @@ trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.co
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%AB%F0%9F%87%B7France%2B%E2%9A%A1%40DeamNet_Proxy
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6Canada%20-%3E%20%F0%9F%87%AB%F0%9F%87%B7France%20%E2%9A%A1%40DeamNet_Proxy
 trojan://humanity@188.114.98.0:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%F0%9F%91%9473%40oneclick
-trojan://humanity@193.151.132.136:40443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1#%40freenet-vt%20
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#proxy%20%2870%29
 trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%AB%F0%9F%87%B7France%2B%E2%9A%A1%40DeamNet_Proxy%20%283%29
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#proxy%20%288%29
@@ -311,6 +310,7 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443/?type=ws&encryp
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&fp=random#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%BA%F0%9F%87%B8United%2BStates%2B%E2%9A%A1%40DeamNet_Proxy%20%2814%29
 vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&sni=mega.io&fp=chrome&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&sid=2c709739f487&type=tcp&flow=xtls-rprx-vision&encryption=none#@V2ray_Collector
 vless://5b1c202b-019f-4440-a976-ad94ec625d9a@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:280.09ms
+vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=%2Fwskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#freenet-vt
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=%2Fwskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#https://t.me/ConfigX2ray
 vless://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.75.124:443/?type=ws&encryption=none&host=BbBNMkL.TAIWan2028.iNDEVs.In&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=BBBNMkL.TaiwAn2028.INdEvS.iN&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%40FREE2CONFIG%20%20%281%29
 vless://5cccb4da-8aee-4b01-be84-2056265e52dc@172.67.175.152:443/?type=ws&encryption=none&host=BBBbBb.tAIWAn2028.iNDevS.IN&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=bBBbBB.taiWan2028.indeVs.iN#%F0%9F%87%AE%F0%9F%87%B3%40FREE2CONFIG%20%20%283%29
@@ -397,7 +397,6 @@ vless://6e67163a-95e2-422b-b966-774920649662@130.193.59.133:8443/?type=tcp&encry
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F167.179.110.68%3D8443&security=tls&sni=afrcloud22.mmv.kr#14%F0%9F%90%8A%40oneclickvpnkeys
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20108%20%40Outline_Vpn
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20114%20%40Outline_Vpn
-vless://70a1790b-a635-46f1-b473-e2ed1b4b491f@185.143.233.5:8880?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAfreenet-vt
 vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ui.huangshang.indevs.in:443/?type=ws&encryption=none&host=ui.huangshang.indevs.in&path=%2F9NojP751adPiN9LMya&security=tls&sni=ui.huangshang.indevs.in&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2023
 vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436/?type=tcp&encryption=none&flow=#telegram%20%E2%98%82%EF%B8%8F%20
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.71.80.241:443/?type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Free_World2%20%2826%29
