@@ -165,6 +165,7 @@ ss://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&amp;path=%
 ss://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.154:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ConfigV2RayNG
 ss://97cc1f58-1e07-4cac-8714-f98848201693@185.143.233.5:443?path=%2Fchat%3Fed%3D128&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=gn.8lack.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=gn.8lack.ir#@v2rayng3
 ss://982ae5d2-12a6-45a8-b0a2-19302336ea21@185.143.233.5:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=cd2.sesrsa.com&amp;type=ws#@V2rayNG3
+ss://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?encryption=none&amp;type=tcp&amp;headerType=none#%F0%9F%8E%96730%40vasl_bashim
 ss://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 ss://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 ss://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
@@ -244,8 +245,6 @@ ss://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?path=%2Fvoip&amp;s
 ss://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=isna.ir#@v2rayng3
 ss://be1fab42-7703-4f8c-9e63-1daec6d002d5@rec.yaraghfit.ir:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1#@v2rayng3
 ss://be38206f-131d-4264-b47c-4802ff0b7c83@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#@v2rayng3
-ss://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/UnNurmal
-ss://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#٪40vasl_bashim
 ss://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Tarkibi19%20%7C%20%40FreeLand8
 ss://be95dc05-f84a-4a4d-80ad-4b7a80177b7f@185.143.233.122:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=line2.gymplusplus.com&amp;type=ws#ConfigV2RayNG%20%E2%9D%84%F0%9F%92%8E
 ss://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#@V2rayNG3
@@ -404,10 +403,11 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#@V2rayNG3
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@V2rayNG3
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 20:34
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-25-May-2026 22:52
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%40ConfigV2RayNG
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%40V2rayTun0
+trojan://humanity@104.20.42.250:443?security=tls&amp;type=ws&amp;host=www.calmloud.com&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;fp=ios&amp;allowInsecure=1#t.me/vasl_bashim
 trojan://humanity@188.114.96.4:443?type=ws&amp;security=tls&amp;path=%2Fassignment&amp;sni=www.calmloud.com&amp;alpn=http%2F1.1&amp;allowInsecure=1#@UnNurmal
 trojan://humanity@188.121.105.205:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#%40ConfigV2RayNG
 trojan://humanity@188.121.112.205:40443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#%40ConfigV2RayNG
@@ -632,6 +632,7 @@ vless://934943ff-bc93-4715-ed3c-c7b33cdedb40@65.109.241.111:443?type=tcp&amp;pat
 vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.154:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ConfigV2RayNG
 vless://97cc1f58-1e07-4cac-8714-f98848201693@185.143.233.5:443?path=%2Fchat%3Fed%3D128&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=gn.8lack.ir&amp;fp=firefox&amp;type=ws&amp;allowInsecure=1&amp;sni=gn.8lack.ir#@v2rayng3
 vless://982ae5d2-12a6-45a8-b0a2-19302336ea21@185.143.233.5:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=cd2.sesrsa.com&amp;type=ws#@V2rayNG3
+vless://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?encryption=none&amp;type=tcp&amp;headerType=none#%F0%9F%8E%96730%40vasl_bashim
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=none&amp;encryption=none&amp;host=xnsjsbsh-skcbdk.arashcamera.ir&amp;type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
@@ -682,8 +683,6 @@ vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?path=%2Fvoip&am
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=isna.ir#@v2rayng3
 vless://be1fab42-7703-4f8c-9e63-1daec6d002d5@rec.yaraghfit.ir:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1#@v2rayng3
 vless://be38206f-131d-4264-b47c-4802ff0b7c83@pg.nexorainnovationhub.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=germany.lezzaluxa.ir&amp;type=ws#@v2rayng3
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#https://t.me/UnNurmal
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#٪40vasl_bashim
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Tarkibi19%20%7C%20%40FreeLand8
 vless://be95dc05-f84a-4a4d-80ad-4b7a80177b7f@185.143.233.122:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=line2.gymplusplus.com&amp;type=ws#ConfigV2RayNG%20%E2%9D%84%F0%9F%92%8E
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#@V2rayNG3
