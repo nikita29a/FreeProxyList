@@ -308,7 +308,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#@v2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Free%2066%20%40Outline_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@r3mrcg001269pz2.cybervena.com:50099#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4a25JYklmekNJcGZLek1XYzlOUVNzUG51V0JPcVZ0QnBCZE11SkdIRHBBPQ@k1.cover20.ir:52502?type=tcp#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotamQ0M2F5bjFteHpRNHQ2ZEVJN09R@45.91.171.108:158#Free%2045%20%40Outline_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#United%20State%20CGI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#Free%2055%20%40Outline_Vpn
@@ -351,6 +350,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%40Easy_Free_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%40v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#-%20%F0%9F%9F%A2%20ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcmN6N3pUT0s3a2tESEdEVExzRmIzM1IyTkZyaWlEL0V6ZDM5SlM5eFMwPQ@k1.cover20.ir:52502?type=tcp#@v2rayng3
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
@@ -666,7 +666,7 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#%F0%9F%96%B2%EF%B8%8FConfigV2RayNG
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#Free%2093%20%40Outline_Vpn
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?type=ws&amp;security=tls&amp;path=%2Fid-tksi&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc&amp;allowInsecure=0#@meliproxyy
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-05-Jun-2026 02:35
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-05-Jun-2026 06:23
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.nintendogames.net#
 trojan://humanity@104.16.174.44:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%F0%9F%A4%B9%E2%80%8D%E2%99%80%EF%B8%8F%20%40ConfigV2RayNG
