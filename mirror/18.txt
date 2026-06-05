@@ -293,6 +293,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzQ2MmQzZjYwMjA1Mjhk@85.239.239.182:16309#5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFVmYzBub1NRRFRMT0FS@20.164.221.1:443#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbXBleDJSZWNPT2krM3VBemsrcXdKTXA2Z0Y1RUVVVnJ4M290OTFxbzdzPQ@k1.cover20.ir:52502?type=tcp#@v2rayng3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#Free%2083%20%40Outline_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Free%2053%20%40Outline_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%8E%89%20%40ConfigV2RayNG
@@ -592,7 +593,7 @@ trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&am
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?path=%2Fae-bo&amp;security=tls&amp;insecure=0&amp;host=s.blibli.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=s.blibli.com.cyylr.eu.cc#Free%2091%20%40Outline_Vpn
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#Free%2093%20%40Outline_Vpn
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-05-Jun-2026 23:17
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-06-Jun-2026 00:51
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=%2Fmy-wbv&amp;security=tls&amp;insecure=0&amp;host=zaintest.vuclip.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=zaintest.vuclip.com.cyylr.eu.cc#%E2%99%BE%EF%B8%8FConfigV2RayNG
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=yazhou10.dynu.net#
