@@ -630,7 +630,6 @@ trojan://telegram-id-privatevpns@13.39.139.191:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.224.23.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.198.0.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.198.191.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.66.180.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.69.137.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.69.34.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.136.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -638,6 +637,7 @@ trojan://telegram-id-privatevpns@35.181.242.89:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.44.49.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.36.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.176.232.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.184.219.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://trojan@ip.sb:8443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2829%29
 trojan://tsuchiya@aa.ccmusic.jp:443/?type=tcp&security=tls#-%3EJP%2B%28%40DeamNet_Proxy%29%20%283%29
 trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#Cairo%20%28Egypt%29
@@ -1550,7 +1550,6 @@ vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448/?type=tcp&encrypt
 vless://EarnMoneyarz-ZoRo@speedtest-chekhost-fastly.amuseftdomainroyal.com:42841/?type=tcp&encryption=none&sni=www.yahoo.com&fp=chrome&security=reality&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&sid=20ba44b6e3#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FNew%20York%F0%9F%85%BF%EF%B8%8Fping%3A111.88ms
 vless://SoonTeam@72.62.211.211:80/?type=ws&encryption=none&host=pay.google.com&path=%2FtelegramSoonTeam#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FManchester%F0%9F%85%BF%EF%B8%8Fping%3A53.21ms
 vless://Test_Link@web-production-0bb3af.up.railway.app:443/?type=ws&encryption=none&host=web-production-0bb3af.up.railway.app&path=%2Fws%2FTest_Link&security=tls&sni=web-production-0bb3af.up.railway.app&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSan%20Francisco%20%28Financial%20District%29%F0%9F%85%BF%EF%B8%8Fping%3A193.66ms
-vless://XpnTeam-65@151.101.57.134:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40outline_ir
 vless://XpnTeam-67@151.101.57.134:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=default.ssl.fastly.net&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984/?type=ws&encryption=none#%E2%9C%A8%20%285%29
