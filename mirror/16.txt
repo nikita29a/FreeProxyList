@@ -289,12 +289,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?encryption=none&se
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
