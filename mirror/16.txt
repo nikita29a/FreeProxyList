@@ -258,9 +258,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.232.222:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇨🇵
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.88.158:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇨🇵
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.191.198:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇨🇵
@@ -270,9 +267,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22224?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.35.255:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.35.255:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.35.255:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇨🇵
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.242.140:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
@@ -282,9 +276,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.181.118:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.95.138:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.29.209.18:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.188.237:22224?encryption=none&security=none&type=tcp#@VlessConfig 🇩🇪
