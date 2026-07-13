@@ -520,7 +520,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22223?security=none&amp;
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22224?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%8E%EF%B8%8F%20%40ConfigV2RayNG
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.226.13:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.232.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.56:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.57.186:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22223?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%99%EF%B8%8F%20%40ConfigV2RayNG
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22224?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%92%A8%20%40ConfigV2RayNG
@@ -531,8 +531,8 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22223?security=none&amp;enc
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG%20%F0%9F%87%B9%F0%9F%87%B7
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.138.45:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -720,7 +720,7 @@ trojan://MiTiVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTi
 trojan://MiTiVPN@visa.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=f--ls-Fl.MaQRor.Ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=fl-o--7-flla.MaQRor.Ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?path=%2Fbr-orcl&amp;security=tls&amp;insecure=0&amp;host=unnes.ac.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=unnes.ac.id.yxls.eu.cc#%24Free%20351%20%40Outline_Vpn
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-13-Jul-2026 13:49
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-13-Jul-2026 16:46
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?path=%2Fbr-orcl&amp;security=tls&amp;insecure=0&amp;host=space.byu.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=space.byu.id.yxls.eu.cc#%24Free%20302%20%40Outline_Vpn
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.41:443?path=%2Fbr-orcl&amp;security=tls&amp;insecure=0&amp;host=space.byu.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=space.byu.id.yxls.eu.cc#%24Free%20363%20%40Outline_Vpn
@@ -1240,7 +1240,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22223?security=none&a
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.204.235:22224?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%8E%EF%B8%8F%20%40ConfigV2RayNG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.226.13:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.232.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.48.56:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.57.186:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22223?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%99%EF%B8%8F%20%40ConfigV2RayNG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.121.132.146:22224?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%92%A8%20%40ConfigV2RayNG
@@ -1251,8 +1251,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22223?security=none&amp;
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.240.8:22224?security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp#%40ConfigV2RayNG%20%F0%9F%87%B9%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.122.125:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.138.45:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22223?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
